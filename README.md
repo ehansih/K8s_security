@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Harsh Vardhan Singh - Portfolio</title>
+    <title>Harsh Vardhan Singh Chauhan - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -30,27 +30,50 @@
 </head>
 <body>
     <div class="container">
-        <h1>Harsh Vardhan Singh</h1>
-        <p>Solution Architect | Cybersecurity | Kubernetes | Networks</p>
+        <h1>Harsh Vardhan Singh Chauhan</h1>
+        <p>Solution Architect 5G Core</p>
+        <p>Email: vardhan.chauhan@gmail.com | Cellular: +918826204222</p>
         
         <h2>About Me</h2>
-        <p>Experienced Solution Architect specializing in cybersecurity, telecommunications (4G, 5G, 6G), and networks. Passionate about leveraging Kubernetes, Linux, and SQL for robust and scalable solutions.</p>
+        <p>Engineering graduate in Electronics & Communication with 14+ years of experience in Telecommunication.</p>
+        <p>Expertise in Volte IMS Core, Openstack, Docker, Kubernetes, EPC, DPI, and Prepaid charging. Passionate about 5G, Cloud, SDN, NFV, and Networking.</p>
         
-        <h2>Skills</h2>
+        <h2>Certifications</h2>
         <ul>
-            <li>Cybersecurity Architecture</li>
-            <li>Cloud Computing & Kubernetes</li>
-            <li>Linux & Network Security</li>
-            <li>SQL Database Management</li>
-            <li>Telecommunications (4G, 5G, 6G)</li>
+            <li>RHCA (Red Hat Certified Solution Architect)</li>
+            <li>CCNA R&S</li>
+            <li>Nokia Certified Cyber Security Associate - Green Belt</li>
+            <li>Nokia Certified Cyber Security Professional - Blue Belt</li>
         </ul>
         
         <h2>Experience</h2>
-        <p><strong>Solution Architect</strong> - XYZ Company</p>
-        <p>Leading design and implementation of secure network infrastructures.</p>
+        <h3>Nokia Networks - Solution Architect</h3>
+        <ul>
+            <li>E2E Solution Architect for SCP/SEPP/DRA/BSF functionality for Sky UK.</li>
+            <li>Technical project manager for PACO domain at SKY UK.</li>
+            <li>Worked on Jira, JFrog, Atlassian, GitHub for bug tracking and patches.</li>
+        </ul>
+        
+        <h3>Mavenir Systems Pvt. Ltd - Senior Member of Technical Staff</h3>
+        <ul>
+            <li>Deployed IMS project for BSNL for the Indian Army.</li>
+            <li>Handled cloud operations for IMS VNF deployments.</li>
+        </ul>
+        
+        <h3>Reliance Jio - Manager</h3>
+        <ul>
+            <li>Analyzed and debugged IMS (VoLTE) call failures.</li>
+            <li>SPOC for DIAMETER-related issues in IMS Deployment.</li>
+        </ul>
+        
+        <h3>Ericsson - Senior Engineer</h3>
+        <ul>
+            <li>Second line of Production Support on Ericsson Charging System.</li>
+            <li>Worked on Customer Service Requests related to Charging Systems.</li>
+        </ul>
         
         <h2>Contact</h2>
-        <p>Email: harsh@example.com</p>
+        <p>Email: vardhan.chauhan@gmail.com</p>
         <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
     </div>
 </body>
