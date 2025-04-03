@@ -34,47 +34,44 @@
         <p>Solution Architect 5G Core</p>
         <p>Email: vardhan.chauhan@gmail.com | Cellular: +918826204222</p>
         
-        <h2>About Me</h2>
-        <p>Engineering graduate in Electronics & Communication with 14+ years of experience in Telecommunication.</p>
-        <p>Expertise in Volte IMS Core, Openstack, Docker, Kubernetes, EPC, DPI, and Prepaid charging. Passionate about 5G, Cloud, SDN, NFV, and Networking.</p>
+        <h2>Professional Summary</h2>
+        <p>Innovative and results-driven Solution Architect with deep expertise in cybersecurity for 4G, 5G, and emerging 6G networks. Skilled in designing secure, cloud-native telecom architectures, leveraging Kubernetes, Linux, and SQL to enhance network resilience, scalability, and automation. Proven ability to develop and implement high-availability solutions for core network functions, including NFV, CNFs, and microservices-based deployments.</p>
+        <p>Expert in zero-trust security models, threat detection, and mitigation strategies, ensuring end-to-end protection of critical telecom infrastructure. Strong background in Diameter, SS7, HTTP/2 security, and API gateway architectures, securing communication between telecom components. Passionate about driving digital transformation, cloud orchestration, and AI-driven security solutions to future-proof modern networks.</p>
         
-        <h2>Certifications</h2>
+        <h2>Key Strengths</h2>
         <ul>
-            <li>RHCA (Red Hat Certified Solution Architect)</li>
-            <li>CCNA R&S</li>
-            <li>Nokia Certified Cyber Security Associate - Green Belt</li>
-            <li>Nokia Certified Cyber Security Professional - Blue Belt</li>
+            <li><strong>Architectural Design & Problem-Solving:</strong> Expert in designing secure, scalable, and resilient telecom networks, integrating Kubernetes, Linux, and SQL.</li>
+            <li><strong>Cybersecurity & Risk Management:</strong> Strong ability to identify, mitigate, and prevent security threats in 4G, 5G, and emerging 6G networks.</li>
+            <li><strong>Technical Leadership & Collaboration:</strong> Experienced in cross-functional teamwork, mentoring, and stakeholder communication.</li>
         </ul>
         
-        <h2>Experience</h2>
-        <h3>Nokia Networks - Solution Architect</h3>
+        <h2>Core Values</h2>
         <ul>
-            <li>E2E Solution Architect for SCP/SEPP/DRA/BSF functionality for Sky UK.</li>
-            <li>Technical project manager for PACO domain at SKY UK.</li>
-            <li>Worked on Jira, JFrog, Atlassian, GitHub for bug tracking and patches.</li>
+            <li><strong>Protecting Critical Infrastructure:</strong> Committed to securing telecom networks against cyber threats.</li>
+            <li><strong>Innovation with Integrity & Compliance:</strong> Dedicated to future-proofing telecom solutions while adhering to industry standards.</li>
         </ul>
         
-        <h3>Mavenir Systems Pvt. Ltd - Senior Member of Technical Staff</h3>
+        <h2>Cybersecurity Interests</h2>
         <ul>
-            <li>Deployed IMS project for BSNL for the Indian Army.</li>
-            <li>Handled cloud operations for IMS VNF deployments.</li>
+            <li>Designing secure, scalable architectures for 4G, 5G, and 6G networks to protect critical infrastructure.</li>
+            <li>Implementing zero-trust security, encryption, and automated threat detection for telecom and cloud environments.</li>
+            <li>Addressing evolving cyber threats in mobile networks, including SS7, Diameter, HTTP/2, and API gateway vulnerabilities.</li>
         </ul>
         
-        <h3>Reliance Jio - Manager</h3>
+        <h2>Target Audience</h2>
         <ul>
-            <li>Analyzed and debugged IMS (VoLTE) call failures.</li>
-            <li>SPOC for DIAMETER-related issues in IMS Deployment.</li>
+            <li>Cybersecurity recruiters seeking solution architects with strong telecom security expertise.</li>
+            <li>Telecom providers & customers looking for secure cloud-native deployments, management, and operations.</li>
+            <li>Government agencies focused on national security, lawful interception, and regulatory compliance.</li>
         </ul>
         
-        <h3>Ericsson - Senior Engineer</h3>
+        <h2>How My Strengths & Values Support Organizational Security Goals</h2>
         <ul>
-            <li>Second line of Production Support on Ericsson Charging System.</li>
-            <li>Worked on Customer Service Requests related to Charging Systems.</li>
+            <li>Architecting secure, cloud-native telecom solutions using Kubernetes, Linux, and SQL to improve network resilience and automation.</li>
+            <li>Developing cybersecurity frameworks to mitigate risks, prevent breaches, and ensure regulatory compliance.</li>
+            <li>Aligning cybersecurity with digital transformation, ensuring security, scalability, and business innovation.</li>
         </ul>
-        
-        <h2>Contact</h2>
-        <p>Email: vardhan.chauhan@gmail.com</p>
-        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
     </div>
 </body>
 </html>
+
